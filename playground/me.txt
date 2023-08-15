@@ -1,0 +1,5 @@
+{{#user}
+Name: Chaluvadi srimannarayana suhiteswar
+Skills: HTML, CSS, JS,React.js, Node.js C++, JAVA, Next.js, MERN Stack
+Email: suhiteswar123@gmail.com
+{/user}}
